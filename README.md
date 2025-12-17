@@ -7,6 +7,18 @@
 
 ---
 
+## 📑 Table of Contents
+
+1. [Business Task](#-business-task)
+2. [Dataset Detail](#-dataset-detail)
+3. [Tools Used](#-tools-used)
+4. [Skills Demonstrated](#-skills-demonstrated)
+5. [Project Workflow](#-project-workflow)
+6. [Key Findings](#-key-findings)
+7. [About This Project](#-about-this-project)
+
+---
+
 ## 🧠 Business Task 
 The objective of this project was to transform raw sales data into a clear, structured, and professional Excel report. The report is designed to support business users in reviewing sales performance, comparing regional results, and understanding trends through organized tables, summaries, and visualizations.
 
