@@ -75,5 +75,5 @@ The objective of this project was to transform raw sales data into a clear, stru
 
 ---
 
-## 📌 About This Project
+## ℹ️ About This Project
 This project was developed as a portfolio example to demonstrate practical Excel skills for business reporting and data analysis. It focuses on clarity, structure, and usability, reflecting how Excel can be used to turn raw data into meaningful business insights.
