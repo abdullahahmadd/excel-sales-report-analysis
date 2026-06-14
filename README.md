@@ -1,4 +1,4 @@
-# 📊 2021 Sales Report
+# 📊 2021 Sales Report (MS Excel)
 ### 🎓 Work Smarter with Microsoft Excel - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.excel-sales-report-analysis)
